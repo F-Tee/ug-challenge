@@ -1,2 +1,2 @@
 # ug-challenge
-Josh Thomson UEA Ungraduate Challenge Submission
+Josh Thomson UEA Undergraduate Challenge Submission
